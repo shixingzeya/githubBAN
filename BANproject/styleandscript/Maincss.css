@@ -1,0 +1,57 @@
+.mainObject{
+    width: 1500px;
+    background-color: white;
+    margin: auto;
+}
+.title{
+    width: 1300px;
+    float: left;
+    background-color: white;
+}
+.mainMenu{
+    width: 1300px;
+    float: left;
+}
+.menu{
+    width: 199px;
+    height: 600px;
+    margin-top: 10px;
+    border: 1px solid skyblue;
+    float: left;
+    background-color: whitesmoke;
+}
+.textPart{
+    width: 1000px;
+    float: left;
+    background-color: white;
+    padding: 2px;
+}
+.picturePart{
+    float: left;
+    width: 300px;
+    background-color: white;
+}
+.foot{
+    width: 1500px;
+    clear: both;
+    text-align: center;
+    background-color: white;
+}
+.pictureDescribe{
+    color: gray;
+}
+.picture{
+    width: 278px;
+    height: 158px;
+    border: 1px solid black;
+}
+.pictureGroup{
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.picture2{
+    width: 278px;
+    height: 316px;
+    border: 1px solid black;
+}
